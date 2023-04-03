@@ -2,8 +2,8 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    API_ID = 6
-    API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+    API_ID = 20447880
+    API_HASH = "b72a7c99c80f2d5d8bdaba53bea30660"
 
     CASH_API_KEY = ""  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
@@ -16,7 +16,7 @@ class Config(object):
     # Telegraph link of the image which will be shown at start command.
     START_IMG = "https://te.legra.ph/file/40eb1ed850cdea274693e.jpg"
 
-    SUPPORT_CHAT = "DevilsHeavenMF"  # Your Telegram support group chat username where your users will go and bother you
+    SUPPORT_CHAT = "lakshyaneet_doubtdiscussion"  # Your Telegram support group chat username where your users will go and bother you
 
     TOKEN = ""  # Get bot token from @BotFather on Telegram
 
